@@ -1,5 +1,3 @@
-## Hi, I'm Ivan 👋
-
 I'm a Systems engineer student at EAN University and a Data Analyst who have been learning more about data visualization, data cleaning and more about this beautiful data world 😄
 
 <!--
