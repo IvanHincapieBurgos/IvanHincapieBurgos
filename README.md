@@ -1,4 +1,4 @@
-<h3>🎓 Systems Engineering | 💻 Data Analyst - Transitioning to Data Engineering</h3>
+<h3>🎓 Systems Engineering | 💻 Data Engineering & Data Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -54,10 +54,10 @@
 ![AWS Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![AWS Athena](https://img.shields.io/badge/Amazon_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### 🔭 On the Roadmap
 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 <hr>
